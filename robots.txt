@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+Allow: /
+
+Sitemap: https://exnoderussia.github.io/How-to-exchange-USDT/sitemap.xml
+Host: exnoderussia.github.io
